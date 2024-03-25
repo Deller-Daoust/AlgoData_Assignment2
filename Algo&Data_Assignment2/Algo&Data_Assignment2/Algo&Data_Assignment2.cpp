@@ -1,3 +1,6 @@
+// Jayden Deller-Daoust
+// 100847599
+
 #include <iostream>
 #include <vector>
 #include <math.h> // This isn't needed but is useful if you want to calculate the middle using floor(vector.size() / 2) to get the middle of the array rather than the equation below.
